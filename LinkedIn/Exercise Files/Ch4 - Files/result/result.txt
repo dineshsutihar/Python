@@ -1,0 +1,12 @@
+Total bytes in directorie: 49152
+Files in directory: 
+------------------- 
+data.csv
+desktop.ini
+file.mat
+file1.txt
+file2.txt
+newfile.txt
+output.txt
+python.png
+text.txt

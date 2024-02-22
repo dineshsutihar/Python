@@ -1,0 +1,6 @@
+name=input("Enter Your Name: ")
+roll=input("Enter Your RollNo.: ")
+depart=input("Enter Your Department: ")
+print("The Name of the Student is: "+name)
+print("the RollNo of the student is: "+roll)
+print("the depatment is: "+depart)
